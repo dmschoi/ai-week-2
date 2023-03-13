@@ -1,6 +1,6 @@
 # Repository for AO4DL class
 
-Author : [EunSeo Choi]
+Author : Eun Seo Choi
 
 **Folders**
 
